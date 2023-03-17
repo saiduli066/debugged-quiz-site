@@ -183,3 +183,9 @@ document.querySelector("#submit").addEventListener("click", () => {
   }, 1500);
   window.scrollTo(0, 0);
 });
+
+// blog 
+const gotoBlog = () => {
+   window.location.href = "https://statuesque-sunburst-e17729.netlify.app/";
+
+}
