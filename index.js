@@ -186,6 +186,6 @@ document.querySelector("#submit").addEventListener("click", () => {
 
 // blog 
 const gotoBlog = () => {
-   window.location.href = "https://statuesque-sunburst-e17729.netlify.app/";
+   window.location.href = "https://rad-praline-ffb257.netlify.app/";
 
 }
